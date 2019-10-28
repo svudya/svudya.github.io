@@ -28,7 +28,7 @@ twitter_username: DeepakVudhya
 github_username:  svduya
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
