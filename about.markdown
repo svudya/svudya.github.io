@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sai Deepak Vudya is a Software developer and Architect from Bangalore. He likes to explore various opensource projects and write about them.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### You can follow him in
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- [Github](https://github.com/svudya)
+- [Twitter](https://twitter.com/DeepakVudhya)
+- [Facebook](https://www.facebook.com/sai.vudhya)
+- [Reddit](https://www.reddit.com/user/deepakvudhya)
+- [LinkedIn](https://www.linkedin.com/in/sai-deepak-vudya/)

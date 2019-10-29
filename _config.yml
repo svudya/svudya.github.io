@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sai Deepak Vudya
+title: Dee Talks
+author: Sai Deepak Vudya
 email: vudhaysaideepak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Sai Deepak Vudya. A Full stack developer and Technical Architect using stack of Java, Python, Django, MongoDB.
+ Sai Deepak Vudya is a Software developer and Architect from Bangalore. He likes to explore various opensource projects and write about them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DeepakVudhya
 github_username:  svduya
+
 
 # Build settings
 theme: minima
