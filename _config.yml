@@ -24,7 +24,7 @@ email: vudhaysaideepak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Sai Deepak Vudya is a Software developer and Architect from Bangalore. He likes to explore various opensource projects and write about them.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://saideepakvudya.me/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DeepakVudhya
 github_username:  svduya
 
