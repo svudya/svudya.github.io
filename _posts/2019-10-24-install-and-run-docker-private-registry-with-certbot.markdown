@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Install and run Docker Private Registry with Certbot"
-date:   2019-10-28 12:37:51 +0530
+date:   2019-10-24 12:37:51 +0530
 categories: docker
 ---
 
